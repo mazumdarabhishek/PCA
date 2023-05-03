@@ -1,2 +1,2 @@
 # PCA
-Principal Component Analysis using Python (Blog)
+This is a code repo for Blog written in LinkedIn. 
